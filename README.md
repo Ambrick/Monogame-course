@@ -1,71 +1,38 @@
 # MonoGame_Tutorials
 A single solution with all of my MonoGame tutorials
 
-### [001 - Drawing a Sprite](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial001)
-Using 2 properties, we can draw a simple sprite
+### [Урок 1.1-Введение, наложение спрайта](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%201.1-%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D0%BD%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82%D0%B0)
+Вводный урок по Monogame,создание проекта, наложение спрайта
 
-### [002 - Moving a Sprite](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial002)
-Adding some key press to move a sprite around the screen
+### [Урок 1.2-Создание игрового объекта, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%201.2-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Создание класса игрового объекта
 
-### [003 - Create Sprite Object](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial003)
-Extracting everything done so far into a class to create a "Sprite" object
+### [Урок 2.1.1-Клавиатура, базовый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%202.1.1-%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Обработка игрвого движения с помощью клавиатуры,наложение ограничения перемещения
 
-### [004 - Input Wrapper Class (Mulitplayer)](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial004)
-Using an "Input" model, we can give sprites their own movement keys
+### [Урок 2.1.2-Клавиатура, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%202.1.2-%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Движение игрового объекта к мыши, модификация курсора
 
-### [005 - Rotating Sprite and 360 Degree Movement](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial005)
+### [Урок 2.2.1-Мышь, базовый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%202.2.1-%D0%9C%D1%8B%D1%88%D1%8C%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Движение игрового объекта к мыши, модификация курсора
 
-### [006 - Sprite Shooting Bullets](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial006)
+### [Урок 2.2.2-Мышь, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%202.2.2-%D0%9C%D1%8B%D1%88%D1%8C%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Создания класса "Камера" для оцентровки игрового объекта
 
-### [007 - Sprite Death and Respawn](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial007)
+### [Урок 3.1-Коллизия,Components, базовый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%203.1-%D0%9A%D0%BE%D0%BB%D0%BB%D0%B8%D0%B7%D0%B8%D1%8F%2CComponents%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Организация игровых объектов с помощью встроенной коллекции, обработка наличия коллизии
 
-### [008 - Sprite Scores](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial008)
+### [Урок 3.2-Коллизия, списки, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%203.2-%D0%9A%D0%BE%D0%BB%D0%BB%D0%B8%D0%B7%D0%B8%D1%8F%2C%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Создание класса для проверки наличия коллизий по осям игровых объектов в списке
 
-### [009 - Sprite Collision detection and Respone](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial009)
+### [Урок 4.1-Анимация спрайта](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%204.1-%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82%D0%B0)
+Организация единичной анимации у игрового объекта
 
-### [010 - 2-Player Pong Game!](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial010)
-Bringing everything together from the last 10 tutorials to create a functional game
+### [Урок 4.2-Анимация, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%204.2-%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Реализация переключения различных анимаций игрового объекта при изменении игровой ситуации
 
-### [011 - Sprite Animation](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial011)
+### [Урок 5.1-Создание карты, базовый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%205.1-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D1%8B%2C%20%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Наложение карты, используя в качестве основы матрицу
 
-### [012 - Interface Buttons](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial012)
-
-### [013 - Game States (Main Menu)](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial013)
-
-### [014 - Camera Following Sprite](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial014)
-
-### [015 - Store Highscores (XML)](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial015)
-
-### [016 - Sprite Layers](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial016)
-
-### [017 - Static Background](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial017)
-
-### [018 - Viewing a Sprite's Rectangle](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial018)
-
-### [019 - Per-Pixel Collision Detection on Rotated Sprites](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial019)
-
-### [020 - Space Shooter Game!](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial020)
-
-### [021 - Sprite Jumping and Falling (Gravity)](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial021)
-
-### [022 - Sprite Following Sprite](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial022)
-
-### [023 - Parallaxing Background](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial023)
-Have different layer backgrounds that move at different speeds. Some are static, and some have a constant moving speed
-
-### [024 - Snow Particles](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial024)
-Creating an emitter to produce snow flakes with different properties. Set up in a way to easily add more emitter types (rain for example)
-
-### [025 - Player Attributes](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial025)
-Having an "Attributes" model, we're able to asign the player (and whoever we'll need to) different attribute values to affect the gameplay along with "AttrbiuteModifiers"
-
-### [026 - Player Power-ups](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial026)
-Expanding from the attributes tutorial, we add the ability to collect Power-ups that apply the attributes, and a manager to remove them after a certain amount of time
-
-### [027 - Sounds](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial027)
-
-### [028 - Character Clothing](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial028)
-
-### [029 - Level Selector](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial029)
-
-### [030 - Platform Runner!](https://github.com/Oyyou/MonoGame_Tutorials/tree/master/MonoGame_Tutorials/Tutorial030)
+### [Урок 5.2-Создание карты, продвинутый уровень](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%205.2-%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D1%8B%2C%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C)
+Создание класса "Уровень" для организации игрового процесса, переходов между уровнями
