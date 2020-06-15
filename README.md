@@ -1,4 +1,4 @@
-# MonoGame_Tutorials
+# Курс Monogame, ПГУ
 A single solution with all of my MonoGame tutorials
 
 ### [Урок 1.1-Введение, наложение спрайта](https://github.com/Ambrick/Monogame-course/tree/master/Course/%D0%A3%D1%80%D0%BE%D0%BA%201.1-%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%2C%20%D0%BD%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%BF%D1%80%D0%B0%D0%B9%D1%82%D0%B0)
